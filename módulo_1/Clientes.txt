@@ -1,0 +1,25 @@
+Clientes
+	ClienteId	int (PK)
+	Nombre		string(50)
+	Apellido	string(50)
+	TipoDocumentoId	int (FK)
+	NumeroDocumento	int
+	Domicilio	string(150)
+	FechaNacimiento	date
+	Teléfono	string(30)
+	Email		string(50)
+	Cuit		string(13) 
+	GeneroId	int (FK)
+	Nota		text
+	Activo		bool 
+
+Generos
+	GeneroId	int (PK)
+	Descripcion	string(50)
+
+TiposDocumento
+	TipoDocumentoId	int (PK)
+	Codigo		string(10)
+	Descripcion	string(50)
+
+	
