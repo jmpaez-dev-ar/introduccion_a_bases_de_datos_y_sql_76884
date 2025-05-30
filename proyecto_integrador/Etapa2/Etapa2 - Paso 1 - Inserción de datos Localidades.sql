@@ -1,0 +1,22 @@
+INSERT INTO LOCALIDADES (LocalidadID, Nombre, CP, Provincia) VALUES
+(1, 'Ciudad Autónoma de Buenos Aires', 'C1000', 'CABA'),
+(2, 'La Plata', '1900', 'Buenos Aires'),
+(3, 'Mar del Plata', '7600', 'Buenos Aires'),
+(4, 'Bahía Blanca', '8000', 'Buenos Aires'),
+(5, 'Rosario', '2000', 'Santa Fe'),
+(6, 'Santa Fe', '3000', 'Santa Fe'),
+(7, 'Córdoba', '5000', 'Córdoba'),
+(8, 'Villa María', '5900', 'Córdoba'),
+(9, 'Mendoza', '5500', 'Mendoza'),
+(10, 'San Rafael', '5600', 'Mendoza'),
+(11, 'San Miguel de Tucumán', '4000', 'Tucumán'),
+(12, 'Salta', '4400', 'Salta'),
+(13, 'San Salvador de Jujuy', '4600', 'Jujuy'),
+(14, 'Resistencia', '3500', 'Chaco'),
+(15, 'Corrientes', '3400', 'Corrientes'),
+(16, 'Paraná', '3100', 'Entre Ríos'),
+(17, 'Posadas', '3300', 'Misiones'),
+(18, 'Neuquén', '8300', 'Neuquén'),
+(19, 'San Carlos de Bariloche', '8400', 'Río Negro'),
+(20, 'Ushuaia', '9410', 'Tierra del Fuego');
+
