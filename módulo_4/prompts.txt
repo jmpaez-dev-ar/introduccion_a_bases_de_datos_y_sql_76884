@@ -1,0 +1,12 @@
+prompt 1:
+	Requiero que me proporciones la definición de dos tablas que simulen un escenario realista: nacimientos en la República Argentina durante el año 2020, diferenciando los datos por género. Una de las tablas debe contener información de nacimientos de varones y la otra, de mujeres.
+
+	Incluye las sentencias SQL necesarias para la creación de ambas tablas, así como los scripts de inserción con al menos 20 registros en cada una. Los datos generados deben ser de apariencia  verdadera y estar contextualizados para la región de Argentina.
+
+prompt 2:
+	Proporcionarías la definición de dos tablas, de acuerdo con la información que se muestra en la imagen adjunta. Incluye las sentencias SQL necesarias para la creación de ambas tablas, así como los scripts correspondientes para la inserción de los registros en cada una. 
+
+prompt 3:    
+    Necesito una tabla con los 30 equipos participantes de la Liga Profesional Argentina 2025 (según la AFA). 
+    Proporciona la definición de la tabla, las sentencias CREATE TABLE y los scripts INSERT con los datos correspondientes para MySQL
+
