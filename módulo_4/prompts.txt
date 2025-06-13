@@ -10,3 +10,26 @@ prompt 3:
     Necesito una tabla con los 30 equipos participantes de la Liga Profesional Argentina 2025 (según la AFA). 
     Proporciona la definición de la tabla, las sentencias CREATE TABLE y los scripts INSERT con los datos correspondientes para MySQL
 
+
+Agrupación usando la IA
+
+Prompt 1:
+	Hacer una query para una base de datos en MySQL donde muestre la cantidad de clientes que hay por país.
+
+Prompt 2:
+	Hacer una query para una base de datos en MySQL que muestre la fecha del primer cliente y la fecha del último cliente (el más reciente).
+
+
+
+JOINS ideados para la IA
+
+Prompt 1:
+	Hacer una query para una base de datos en MySQL que muestre todos los productos que fueron pedidos por el cliente cuyo identificador sea igual a 11.
+
+Prompt 2:
+	Hacer una query para una base de datos en MySQL donde muestre todos los clientes que hayan hecho una compra el último año.
+
+Prompt 3:
+	Hacer una query para una base de datos en MySQL que muestre todos los productos que tienen ventas por más de $5000 c/u.
+
+
